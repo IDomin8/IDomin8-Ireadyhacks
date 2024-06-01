@@ -28,6 +28,8 @@ javascript:(function(){var createGui=function(titleText,leftOffset,content){var 
 - Clean and intuitive GUI design
 
 
+
+
 ## Troubleshooting
 
 ### Common Issues
