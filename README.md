@@ -39,4 +39,5 @@ javascript:(function(){var createGui=function(titleText,leftOffset,content){var 
 - **GUI not displaying correctly**: Try refreshing the page or clearing your browser cache.
 
 
-
+## Disclaimer
+**USE AT YOUR OWN RISK. It's not my fault if you get banned.**
